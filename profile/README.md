@@ -10,8 +10,9 @@ To help you quickly identify the type of dataset in each repository, we use a co
 - 🟥 **Publicly available**: Datasets that are freely accessible to the public.
 - 🟨 **Scrapped**: Datasets collected through web scraping or similar methods.
 
+<br />
   
 <div align="center">
   
-  ###### Thank you for visiting Merenna. We hope you find our datasets useful for your research and projects. Happy coding! 🚀
+  ###### Thank you for visiting Merenna. We hope you find our datasets useful for your research and projects.
 </div>
