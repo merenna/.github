@@ -6,9 +6,9 @@
 
 To help you quickly identify the type of dataset in each repository, we use a color-coded labeling system:
 
-- 🟩 Synthetically generated: Datasets that have been artificially created for research purposes.
-- 🟥 Publicly available: Datasets that are freely accessible to the public.
-- 🟨 Scrapped: Datasets collected through web scraping or similar methods.
+- 🟩 **Synthetically generated**: Datasets that have been artificially created for research purposes.
+- 🟥 **Publicly available**: Datasets that are freely accessible to the public.
+- 🟨 **Scrapped**: Datasets collected through web scraping or similar methods.
 
   
 <div align="center">
