@@ -14,6 +14,4 @@ To help you quickly identify the type of dataset in each repository, we use a co
 <div align="center">
   
   ###### Thank you for visiting Merenna. We hope you find our datasets useful for your research and projects. Happy coding! 🚀
-
-  <img src="https://img.shields.io/badge/Powered_by-Aelluminate-blue?style=for-the-badge&labelColor=%231f1f1e&color=%23f3f4f0" alt="Powered by Aelluminate">
 </div>
